@@ -1,0 +1,8 @@
+# Default ignored files
+/../../junit-testing-tutorial./.idea/shelf/
+/../../junit-testing-tutorial./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../junit-testing-tutorial./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../junit-testing-tutorial./.idea/dataSources/
+/../../junit-testing-tutorial./.idea/dataSources.local.xml
