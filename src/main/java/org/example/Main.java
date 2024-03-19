@@ -13,9 +13,10 @@ public class Main {
             return false;
         }
     }
-    //method check full uppercase string
+
     //method main
     public static void main(String[] args) {
+        System.out.println("Something like that");
     }
 
 }
