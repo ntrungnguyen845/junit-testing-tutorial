@@ -19,8 +19,6 @@ public class Main {
         System.out.println("Something like that");
         System.out.println("Thank you so much");
         System.out.println("researching feature 1");
-        System.out.println("Reading Documents from Customer");
-        System.out.println("Design UX/UI");
     }
 
 }
